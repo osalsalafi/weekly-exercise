@@ -1,2 +1,2 @@
-# weekly-exercise
-weekly exercise files
+# Weekly Exercises
+## In this file you can find the weekly exercises' files
